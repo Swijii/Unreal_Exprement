@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Github/Swiji/Unreal_Exprement/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset",
+				"C:/Program Files/Github/Swiji/Unreal_Exprement/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/M3/6T1XG4EDG4ZEE1U9HMYL4C.uasset",
+				"C:/Program Files/Github/Swiji/Unreal_Exprement/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/EE/HZ5WNBFZRJYQPUA6X8TVVT.uasset",
+				"C:/Program Files/Github/Swiji/Unreal_Exprement/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/AY/KLCRMXKI9WR2P0GDY96C36.uasset",
+				"C:/Program Files/Github/Swiji/Unreal_Exprement/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/0N/NTRPN55OWWUSD03K29ZOSH.uasset"
+			]
+		}
+	]
+}
